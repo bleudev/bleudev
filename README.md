@@ -3,4 +3,4 @@
 ## 📚 My projects
 Dispy (package for Discord bots) -> https://github.com/itttgg/dispy
 
-Dispy API docs -> https://github.com/itttgg/dispy-api-docs
+Abstract language (My programming language) -> https://github.com/itttgg/abstract-lang
