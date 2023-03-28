@@ -1,7 +1,7 @@
 # Hi! I'm a pixeldeee and i'm python developer
 
 ## 📚 My projects
-Disspy (Library for creating bots in discord) -> https://github.com/pixeldeee/disspy
+Pytecord (Library for creating bots in discord) -> https://github.com/pixeldeee/pytecord
 
 Abstract language (My programming language) -> https://github.com/abstract-lang/abstract
 
