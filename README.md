@@ -7,6 +7,6 @@
 
 ![Bleudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleudev&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleudev&layout=compact&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleudev&layout=compact&theme=transparent)
 
 [![Bleudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bleudev&layout=compact&theme=transparent)](https://wakatime.com/@bleudev)
