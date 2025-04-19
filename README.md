@@ -1,12 +1,20 @@
-# Information
-- Nickname: bleudev
-- Languages: Python
-- Team: honey-team
-- Projects:
-  - [Ufpy (useful python)](https://github.com/honey-team/ufpy)
+<div style="display: flex">
+  <a href="https://github.com/bleudev"> <img src="https://github-readme-stats.vercel.app/api?username=bleudev&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height=155/></a>
+  <a href="https://wakatime.com/@bleudev"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bleudev&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true" height=155/></a>
+</div>
 
-![Bleudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bleudev&show_icons=true&theme=transparent)
+### Hi, i'm bleudev 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bleudev&layout=compact&theme=transparent)
+I'm just developer from Russia and i like such languages as Python, JavaScript and C++ (to solve the Olympics). I'm in [Honey Team](https://github.com/honey-team).
 
-[![Bleudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bleudev&layout=compact&theme=transparent)](https://wakatime.com/@bleudev)
+### Here's my projects
+
+- [Ufpy (useful python)](https://github.com/honey-team/ufpy) <img src="https://skillicons.dev/icons?i=py" height=20/>
+- [Colorpick: colorpicker with support several modes (RGB, HSL, HSV (soon))](https://github.com/bleudev/colorpick) <img src="https://skillicons.dev/icons?i=react,ts" height=20/>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,s,py,js,ts,nodejs,react,cpp,md&theme=dark" />
+  </a>
+</p>
