@@ -15,6 +15,6 @@ I'm just developer from Russia and i like such languages as Python, JavaScript a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,s,py,js,ts,nodejs,react,cpp,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,py,js,ts,nodejs,react,cpp,md&theme=dark" />
   </a>
 </p>
