@@ -11,10 +11,16 @@ I'm just developer from Russia and i like such languages as Python, JavaScript a
 
 - [Ufpy (useful python)](https://github.com/honey-team/ufpy) <img src="https://skillicons.dev/icons?i=py" height=20/>
 - [Colorpick: colorpicker with support several modes (RGB, HSL, HSV (soon))](https://github.com/bleudev/colorpick) <img src="https://skillicons.dev/icons?i=react,ts" height=20/>
+- [QW: Vim-like command line editor](https://github.com/bleudev/qw) <img src="https://skillicons.dev/icons?i=react,ts" height=20/>
+- Minecraft:
+  - Plugins:
+    - [ItemEconomy (spigot)](https://github.com/bleudev/item-economy) <img src="https://skillicons.dev/icons?i=java" height=20/>
+  - Mods:
+    - [Unknown mod (fabric)](https://github.com/bleudev/unknown-mod) <img src="https://skillicons.dev/icons?i=java" height=20/>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,py,js,ts,nodejs,react,cpp,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,py,js,ts,nodejs,react,java,cpp,md&theme=dark" />
   </a>
 </p>
