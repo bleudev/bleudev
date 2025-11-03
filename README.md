@@ -18,6 +18,7 @@ I'm just developer from Russia and i like such languages as Python, JavaScript a
   - Mods:
     - [Unknown mod (fabric)](https://github.com/bleudev/unknown-mod) <img src="https://skillicons.dev/icons?i=java" height=20/>
     - [Nine lifes (fabric)](https://github.com/bleudev/nine_lifes) <img src="https://skillicons.dev/icons?i=java" height=20/>
+    - [Ppl utils (fabric)](https://github.com/bleudev/ppl_utils) <img src="https://skillicons.dev/icons?i=java" height=20/>
 
 
 <p align="center">
