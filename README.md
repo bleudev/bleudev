@@ -5,7 +5,7 @@
 
 ### Hi, i'm bleudev 👋
 
-I'm just developer from Russia and i like such languages as Python, JavaScript and C++ (to solve the Olympics). Also i adore Minecraft developerment and develop mods on [modrinth](https://modrinth.com/user/bleudev). I'm in [Honey Team](https://github.com/honey-team).
+I'm just developer from Russia and i like such languages as Java, Kotlin and Python. Also i ADORE Minecraft developerment and develop mods on [modrinth](https://modrinth.com/user/bleudev).
 
 ### Here's my projects
 
@@ -23,6 +23,6 @@ I'm just developer from Russia and i like such languages as Python, JavaScript a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,py,js,ts,nodejs,react,java,cpp,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,java,kotlin,py,js,ts,nodejs,react,cpp,md&theme=dark" />
   </a>
 </p>
