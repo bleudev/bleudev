@@ -23,6 +23,6 @@ I'm just developer from Russia and i like such languages as Java, Kotlin and Pyt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,neovim,vscode,s,java,kotlin,py,js,ts,nodejs,react,cpp,md&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,ts,nodejs,react,cpp,md&theme=dark" />
   </a>
 </p>
